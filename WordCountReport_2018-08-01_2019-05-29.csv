@@ -1,0 +1,1092 @@
+Account,Project,Job,Translation Resource,Agency,Target Language,Workflow Step,Fuzzy Profile,Fuzzy Breakdown,Word Count,Weighted Words
+TaskRabbit,TaskRabbit - API Sandbox,Test Thiago,Thiago Baraldi,,English (United Kingdom),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - API Sandbox,Test Thiago,Thiago Baraldi,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - API Sandbox,Test Thiago,Thiago Baraldi,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - API Sandbox,Test Thiago,Thiago Baraldi,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Glossary Translations,Glossary 2018-12-03 (1),M D,,French (France),Translation,Default,0 - 84.9%,6,6
+TaskRabbit,TaskRabbit - Glossary Translations,Glossary 2018-12-03 (1),M D,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Glossary Translations,Glossary 2018-12-03 (1),M D,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Glossary Translations,Glossary 2018-12-03 (1),M D,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Glossary Translations,Glossary 2018-12-03 (1),Marie-Hélène Perrin-Frégis,,French (France),Edit,,,6,6
+TaskRabbit,TaskRabbit - IKEA Content,fr_FR_Ikea_Script,Florian Vende,,French (France),Translation,Default,0 - 84.9%,514,514
+TaskRabbit,TaskRabbit - IKEA Content,fr_FR_Ikea_Script,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - IKEA Content,fr_FR_Ikea_Script,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - IKEA Content,fr_FR_Ikea_Script,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - IKEA Content,190417_IKEA Content_IKEA Booking Flow CSVs _FVende,Florian Vende,,French (France),Translation,Default,0 - 84.9%,813,813
+TaskRabbit,TaskRabbit - IKEA Content,190417_IKEA Content_IKEA Booking Flow CSVs _FVende,Florian Vende,,French (France),Translation,Default,85 - 94.9%,153,92
+TaskRabbit,TaskRabbit - IKEA Content,190417_IKEA Content_IKEA Booking Flow CSVs _FVende,Florian Vende,,French (France),Translation,Default,95 - 99.9%,58,18
+TaskRabbit,TaskRabbit - IKEA Content,190417_IKEA Content_IKEA Booking Flow CSVs _FVende,Florian Vende,,French (France),Translation,Default,100%,674,68
+TaskRabbit,TaskRabbit - Legal ,190408_Legal_SC - 206 - (FR) Micro-Entrepreneur License_MMashhadi,Florian Vende,,French (France),Translation,Default,0 - 84.9%,391,391
+TaskRabbit,TaskRabbit - Legal ,190408_Legal_SC - 206 - (FR) Micro-Entrepreneur License_MMashhadi,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,190408_Legal_SC - 206 - (FR) Micro-Entrepreneur License_MMashhadi,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,190408_Legal_SC - 206 - (FR) Micro-Entrepreneur License_MMashhadi,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Florian Vende,,French (France),Review,,,18313,18313
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Florian Vende,,French (France),Review,,,632,632
+TaskRabbit,TaskRabbit - Legal ,190412_Legal_TOS_Invoicing Mandate_Fvende,Florian Vende,,French (France),Translation,Default,0 - 84.9%,551,551
+TaskRabbit,TaskRabbit - Legal ,190412_Legal_TOS_Invoicing Mandate_Fvende,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,190412_Legal_TOS_Invoicing Mandate_Fvende,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,190412_Legal_TOS_Invoicing Mandate_Fvende,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Florian Vende,,French (France),Review,,,515,515
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Florian Vende,,French (France),Review,,,7472,7472
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Thiago Baraldi,,French (France),Review,,,1953,1953
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,18313,18313
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,632,632
+TaskRabbit,TaskRabbit - Legal ,20190429_Legal_TaskerReferralProgramT&C_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1360,1360
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,515,515
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,7472,7472
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1953,1953
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,15172,15172
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,440,264
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,72,22
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,296,30
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,629,629
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_How_Platform_Works_HeidiAllstop,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,3,1
+TaskRabbit,TaskRabbit - Legal ,20190429_Legal_TaskerReferralProgramT&C_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,346,346
+TaskRabbit,TaskRabbit - Legal ,20190429_Legal_TaskerReferralProgramT&C_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,68,41
+TaskRabbit,TaskRabbit - Legal ,20190429_Legal_TaskerReferralProgramT&C_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,938,282
+TaskRabbit,TaskRabbit - Legal ,20190429_Legal_TaskerReferralProgramT&C_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,8,1
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,30,30
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,45,27
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,133,40
+TaskRabbit,TaskRabbit - Legal ,20190408_Legal_Urgent_Trademark_Guidelines_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,307,31
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,7141,7141
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,75,45
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,142,43
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_Privacy_Policy_Marjan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,114,12
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1948,1948
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,5,2
+TaskRabbit,TaskRabbit - Legal ,190409_Legal_Happiness Pledge (France) for translation_FVende,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2255,2255
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Legal ,20190405_Legal_Urgent_ToS_Marjan,Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,78,8
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Florian Vende,,French (France),Review,,,2289,2289
+TaskRabbit,TaskRabbit - Marketing Documents,190509_Marketing_TaskRabbit_Email_Welcome2A_Mel,Florian Vende,,French (France),Translation,Default,0 - 84.9%,151,151
+TaskRabbit,TaskRabbit - Marketing Documents,190509_Marketing_TaskRabbit_Email_Welcome2A_Mel,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190509_Marketing_TaskRabbit_Email_Welcome2A_Mel,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190509_Marketing_TaskRabbit_Email_Welcome2A_Mel,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190524_Marketing_AppStorecopy_CKu,Florian Vende,,French (France),Translation,Default,0 - 84.9%,190,190
+TaskRabbit,TaskRabbit - Marketing Documents,190524_Marketing_AppStorecopy_CKu,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190524_Marketing_AppStorecopy_CKu,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190524_Marketing_AppStorecopy_CKu,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Florian Vende,,French (France),Review,,,11422,11422
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Florian Vende,,French (France),Review,,,3120,3120
+TaskRabbit,TaskRabbit - Marketing Documents,190415_Marketing_TaskRabbit_Email_Welcome1-3_Mel,Florian Vende,,French (France),Translation,Default,0 - 84.9%,188,188
+TaskRabbit,TaskRabbit - Marketing Documents,190415_Marketing_TaskRabbit_Email_Welcome1-3_Mel,Florian Vende,,French (France),Translation,Default,85 - 94.9%,8,5
+TaskRabbit,TaskRabbit - Marketing Documents,190415_Marketing_TaskRabbit_Email_Welcome1-3_Mel,Florian Vende,,French (France),Translation,Default,95 - 99.9%,125,38
+TaskRabbit,TaskRabbit - Marketing Documents,190415_Marketing_TaskRabbit_Email_Welcome1-3_Mel,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TaskRabbit Logo Guidelines,M D,,French (France),Translation,Default,0 - 84.9%,555,555
+TaskRabbit,TaskRabbit - Marketing Documents,TaskRabbit Logo Guidelines,M D,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TaskRabbit Logo Guidelines,M D,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TaskRabbit Logo Guidelines,M D,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TaskRabbit Logo Guidelines,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,555,555
+TaskRabbit,TaskRabbit - Marketing Documents,TestThiago2 (Cancelled 2019/02/19 10:58:21),Thiago Baraldi,,French (France),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Marketing Documents,TestThiago2 (Cancelled 2019/02/19 10:58:21),Thiago Baraldi,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TestThiago2 (Cancelled 2019/02/19 10:58:21),Thiago Baraldi,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,TestThiago2 (Cancelled 2019/02/19 10:58:21),Thiago Baraldi,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2289,2289
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,11422,11422
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2865,2865
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1813,1813
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,221,133
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,255,77
+TaskRabbit,TaskRabbit - Marketing Documents,190402_Mktng_Task_Templates__Tasker_Launch_CKu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,5213,5213
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,425,255
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,4378,1314
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Task_Templates_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1339,1339
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,148,89
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,1378,414
+TaskRabbit,TaskRabbit - Marketing Documents,190329_Marketing_Group Translations_Cku,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Florian Vende,,French (France),Review,,,1,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Translation,Default,0 - 84.9%,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Review,,,9,9
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Florian Vende,,French (France),Edit,,,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Florian Vende,,French (France),Review,,,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Review,,,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Florian Vende,,French (France),Edit,,,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Florian Vende,,French (France),Review,,,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Translation,Default,0 - 84.9%,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Translation,Default,85 - 94.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Review,,,8,8
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Florian Vende,,French (France),Edit,,,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Florian Vende,,French (France),Review,,,31,31
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Florian Vende,,French (France),Review,,,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Florian Vende,,French (France),Review,,,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Florian Vende,,French (France),Review,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Translation,Default,0 - 84.9%,9,9
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Translation,Default,95 - 99.9%,3,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Review,,,13,13
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Florian Vende,,French (France),Edit,,,12,12
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Review,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Florian Vende,,French (France),Edit,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Translation,Default,100%,2,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Review,,,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Florian Vende,,French (France),Edit,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Florian Vende,,French (France),Review,,,22,22
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Florian Vende,,French (France),Review,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,49,49
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Jean-François Goës,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,31,31
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Jean-François Goës,,French (France),Translation,Default,100%,3,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,110,110
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Jean-François Goës,,French (France),Translation,Default,100%,2,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Jean-François Goës,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,M D,,French (France),Translation,Default,0 - 84.9%,11,11
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,M D,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,M D,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,M D,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,M D,,French (France),Translation,Default,0 - 84.9%,124,124
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,M D,,French (France),Translation,Default,85 - 94.9%,26,16
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,M D,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,M D,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,M D,,French (France),Translation,Default,0 - 84.9%,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,M D,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,M D,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,M D,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,M D,,French (France),Translation,Default,0 - 84.9%,1193,1193
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,M D,,French (France),Translation,Default,85 - 94.9%,27,17
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,M D,,French (France),Translation,Default,95 - 99.9%,30,9
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,M D,,French (France),Translation,Default,100%,139,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,49,49
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,25,25
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,150,150
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,34,34
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,112,112
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,14,14
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,1389,1389
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,55,55
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,47,47
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,150,150
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,35,35
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,9,9
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,17,17
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,39,39
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,113,113
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,Test1 - Copy Source to Translation (Cancelled 2018/11/21 23:33:08),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,1389,1389
+TaskRabbit,TaskRabbit - Mobile Client,Test1 - Copy Source to Translation (Cancelled 2018/11/21 23:33:08),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,Test1 - Copy Source to Translation (Cancelled 2018/11/21 23:33:08),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,Test1 - Copy Source to Translation (Cancelled 2018/11/21 23:33:08),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,8,8
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,31,31
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,44,44
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,50,50
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,4,4
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,1389,1389
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,1611,1611
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,13,13
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,21,21
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,22,22
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,4,4
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,0 - 84.9%,22,22
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (Canada),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,55,55
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545183815493,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#473 Replaces onboarding with onboarding alternative - 1550005691270,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,47,47
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#417 Social Authentication Growth Improvements / Flow Updates  - 1544230036564,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,150,150
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#398 Strings Synching - 1542842872265,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#536 Android fix some ReactIntl red screens & warnings - 1552509496992,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,35,35
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,9,9
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#545 Fixup Strings - 1552603724614,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,17,17
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#415 Storefront AB Test Strings - 1543991089161,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,39,39
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#616 Location Search Country Restriction to improve UK Search Experience - 1556237557321,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,113,113
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557377741516,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,8,8
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#629 Credit Card Double-submit Prevention & Revamp - 1556842148571,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,31,31
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,44,44
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 [CTW Part 5] Clear schedule on confirmation dismiss - 1547165041834,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,7,7
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#624 Take down smart search ab test - 1558050912560,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,50,50
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#431 Mb/Onboarding Alternative - 1545439333586,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,4,4
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,1389,1389
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,INITIAL - 1542842481257,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,1614,1614
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#421 If/tune integration - 1544569807080 (Cancelled 2018/12/12 19:56:46),Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,13,13
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#543 Add test push notification button in Support screen - 1552598290662,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#507 Add in-flight state to login button - 1551297041513,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,21,21
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1556238053651,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,22,22
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#592 Tasker Suggestion - 1555644350514,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,4,4
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1557889885582,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,0 - 84.9%,22,22
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Source-as-Translation Source-as-Translation,,English (United Kingdom),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Thiago Baraldi,,French (Canada),Edit,,,5,5
+TaskRabbit,TaskRabbit - Mobile Client,PR#559 [Trivial] Localize Task Search Placeholder Text - 1553120506943,Thiago Baraldi,,French (France),Review,,,6,6
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1549312591256,Thiago Baraldi,,French (France),Review,,,34,34
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Thiago Baraldi,,French (France),Review,,,39,39
+TaskRabbit,TaskRabbit - Mobile Client,PR#455 if/in-app-rating - 1548881767709,Thiago Baraldi,,French (France),Review,,,112,112
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Thiago Baraldi,,French (France),Review,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Thiago Baraldi,,French (France),Review,,,21,21
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Thiago Baraldi,,French (France),Review,,,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,4,4
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,39,39
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,28,28
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,21,21
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#601 Client Time Windows v2 - 1556321526504,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,31,31
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#479 Create empty states for task lists - 1550266721453,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,18,18
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#541 Password reset UI / state store - 1553213504566,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,7,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#485 Automatic commits in CI for docs & strings - 1550281237320,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#589 Adjust storefront title - 1554243869162,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#534 Vertically align text on Android text inputs - 1552417178613,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,20,20
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#477 Validate quickform fields & show required fields - 1550266462168,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1,1
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,14,14
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Client,PR#447 Client Time Windows - 1550688436172,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Florian Vende,,French (France),Review,,,109,109
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Florian Vende,,French (France),Review,,,39,39
+TaskRabbit,TaskRabbit - Mobile Tasker,INITIAL - 1553545212941,Florian Vende,,French (France),Review,,,2076,2076
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Translation,Default,0 - 84.9%,84,84
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Translation,Default,85 - 94.9%,6,4
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Review,,,153,153
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1268 164853051 bank account - 1555104692452,Florian Vende,,French (France),Edit,,,96,96
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Review,,,4,4
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1257 [#164674685] making zendesk chat localization work - 1554247037844,Florian Vende,,French (France),Edit,,,3,3
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Florian Vende,,French (France),Review,,,1741,1741
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Translation,Default,85 - 94.9%,75,45
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Review,,,75,75
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1277 [#163777277] updating french privacy policy and terms urls - 1555547689235,Florian Vende,,French (France),Edit,,,75,75
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Translation,Default,0 - 84.9%,8,8
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Review,,,10,10
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1275 render checklist view - 1555527317881,Florian Vende,,French (France),Edit,,,8,8
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Florian Vende,,French (France),Review,,,17,17
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Translation,Default,0 - 84.9%,63,63
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Translation,Default,100%,1,1
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Review,,,65,65
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1269 [#164874085] adding CESU screen - 1557280842994,Florian Vende,,French (France),Edit,,,64,64
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Florian Vende,,French (France),Review,,,97,97
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1284 Translations test fix and smartling translation sync - 1555630743660,Florian Vende,,French (France),Review,,,6,6
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1308 removing old keys - 1557809162450,Florian Vende,,French (France),Review,,,1,1
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Review,,,7,7
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1259 Route name translations - 1553712321199,Florian Vende,,French (France),Edit,,,1,1
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1301 [#165158569] move closing message to use bottom save button - 1557165895410,Florian Vende,,French (France),Review,,,1,1
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Translation,Default,85 - 94.9%,12,8
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Review,,,15,15
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1312 Render stars + new empty state - 1557963563305,Florian Vende,,French (France),Edit,,,15,15
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Translation,Default,0 - 84.9%,50,50
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Review,,,54,54
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1296 Render info icon in business section; alert on tap - 1556730668094,Florian Vende,,French (France),Edit,,,50,50
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,109,109
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,39,39
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1741,1741
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,17,17
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,93,93
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,64,64
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,45,27
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1266 164648412 infoplist localization - 1554420776173,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,36,36
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1237 accessibility demo - 1554922794178,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1489,1489
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,50,30
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,22,7
+TaskRabbit,TaskRabbit - Mobile Tasker,Tasker App Translations 1,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,172,18
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,17,11
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1304 update copy - 1557343453206,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,91,91
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,2,2
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Mobile Tasker,PR#1294 Registrant checklist project - 1556563151192,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Florian Vende,,French (France),Review,,,1542,1542
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Florian Vende,,French (France),Review,,,554,554
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1542,1542
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,554,554
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1118,1118
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,307,185
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,117,36
+TaskRabbit,TaskRabbit - SEM/Ad Copy,190328_SEM_France_launch_Ads_Btexara,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,491,491
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,60,36
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - SEM/Ad Copy,FR_SEM_KWs_Localisation_Smartling,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,190404_Sketch_TR_Branded Messages_JWu,Florian Vende,,French (France),Translation,Default,0 - 84.9%,21,21
+TaskRabbit,TaskRabbit - Sketch & Images Content,190404_Sketch_TR_Branded Messages_JWu,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,190404_Sketch_TR_Branded Messages_JWu,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,190404_Sketch_TR_Branded Messages_JWu,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Translation,Default,0 - 84.9%,3,3
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Review,,,3,3
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-04-11 (1),Florian Vende,,French (France),Edit,,,3,3
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Florian Vende,,French (France),Review,,,101,101
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Florian Vende,,French (France),Review,,,98,98
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Florian Vende,,French (France),Review,,,86,86
+TaskRabbit,TaskRabbit - Sketch & Images Content,TestJobSketch,Thiago Baraldi,,French (France),Translation,Default,0 - 84.9%,8,8
+TaskRabbit,TaskRabbit - Sketch & Images Content,TestJobSketch,Thiago Baraldi,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,TestJobSketch,Thiago Baraldi,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,TestJobSketch,Thiago Baraldi,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,101,101
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,98,98
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,86,86
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,95,95
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,2,2
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,1,1
+TaskRabbit,TaskRabbit - Sketch & Images Content,190312_TOps_Graphics_Sketch_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,68,68
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,12,8
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Sketch & Images Content,20190221_TOps_Images_HiringTimeParameters,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,18,2
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,33,33
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,50,15
+TaskRabbit,TaskRabbit - Sketch & Images Content,Daily upload 2019-03-19 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Florian Vende,,French (France),Review,,,5171,5171
+TaskRabbit,TaskRabbit - TOps Documents,190520_TOPs Documents_P0 - Tasker - Add IKEA Category_FVende,Florian Vende,,French (France),Translation,Default,0 - 84.9%,74,74
+TaskRabbit,TaskRabbit - TOps Documents,190520_TOPs Documents_P0 - Tasker - Add IKEA Category_FVende,Florian Vende,,French (France),Translation,Default,85 - 94.9%,42,26
+TaskRabbit,TaskRabbit - TOps Documents,190520_TOPs Documents_P0 - Tasker - Add IKEA Category_FVende,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,190520_TOPs Documents_P0 - Tasker - Add IKEA Category_FVende,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Florian Vende,,French (France),Review,,,323,323
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Florian Vende,,French (France),Review,,,3302,3302
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Translation,Default,0 - 84.9%,27,27
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Translation,Default,95 - 99.9%,5,2
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Translation,Default,100%,19,2
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Review,,,3854,3854
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Florian Vende,,French (France),Edit,,,5,5
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Translation,Default,0 - 84.9%,26,26
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Review,,,200,200
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Florian Vende,,French (France),Edit,,,26,26
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Florian Vende,,French (France),Review,,,3629,3629
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Florian Vende,,French (France),Review,,,573,573
+TaskRabbit,TaskRabbit - TOps Documents,20190415_TOpsDocuments_IKEA Blog Post Updates,Florian Vende,,French (France),Translation,Default,0 - 84.9%,5,5
+TaskRabbit,TaskRabbit - TOps Documents,20190415_TOpsDocuments_IKEA Blog Post Updates,Florian Vende,,French (France),Translation,Default,85 - 94.9%,95,57
+TaskRabbit,TaskRabbit - TOps Documents,20190415_TOpsDocuments_IKEA Blog Post Updates,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190415_TOpsDocuments_IKEA Blog Post Updates,Florian Vende,,French (France),Translation,Default,100%,14,2
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Translation,Default,0 - 84.9%,136,136
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Translation,Default,100%,1,1
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Review,,,152,152
+TaskRabbit,TaskRabbit - TOps Documents,20190410_TOps Documents_NewTranslations_MBeier,Florian Vende,,French (France),Edit,,,136,136
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,12428,12428
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,179,108
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,895,269
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Jean-François Goës,,French (France),Translation,Default,100%,1661,167
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,66,66
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Ségolène Pla,,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Ségolène Pla,,French (France),Translation,Default,85 - 94.9%,152,92
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Ségolène Pla,,French (France),Translation,Default,95 - 99.9%,30,9
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Ségolène Pla,,French (France),Translation,Default,100%,61,7
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Silvan Hilaire,,French (France),Edit,,,15097,15097
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Thiago Baraldi,,French (France),Review,,,3,3
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Review,,,1,1
+TaskRabbit,TaskRabbit - TOps Documents,TestThiago08 (Cancelled 2019/03/18 14:37:25),Thiago Baraldi,,French (France),Edit,,,1,1
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Thiago Baraldi,,French (France),Review,,,34603,34603
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,4955,4955
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,268,268
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,5839,5839
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,3892,3892
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,169,169
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,7445,7445
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,166,166
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,19440,19440
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1004,1004
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,1872,1124
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,1309,393
+TaskRabbit,TaskRabbit - TOps Documents,20190328_TOps Documents_New Tasker Info Session (Update)_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,527,53
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,72,72
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,154,93
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,35,11
+TaskRabbit,TaskRabbit - TOps Documents,20190430_TOpsDocuments_IKEA FR Intro_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,7,1
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2689,2689
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,1183,710
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,1429,429
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_Updates_3-29-19_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,538,54
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1588,1588
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,919,552
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,978,294
+TaskRabbit,TaskRabbit - TOps Documents,190318_TOpsDocuments_Updates_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,355,36
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,152,152
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,17,11
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190425_TOpsDocuments_NewTaskerSurvey,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,7069,7069
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,373,224
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,920,276
+TaskRabbit,TaskRabbit - TOps Documents,190304_TOps_Docs_Phase2_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,234,24
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,54,54
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,66,40
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - TOps Documents,20190318_TOpsDocuments_ReliabilityRateBlog_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,46,5
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,5927,5927
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,78,47
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,3,1
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,47,5
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,11645,11645
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,225,135
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,191,58
+TaskRabbit,TaskRabbit - TOps Documents,Tasker Operations Documents Translation - Phase 01,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1280,128
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Florian Vende,,French (France),Review,,,2613,2613
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Florian Vende,,French (France),Edit,,,2613,2613
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1483,1483
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,222,134
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,908,273
+TaskRabbit,TaskRabbit - Trust & Safety,190515_Trust & Safety_Scripts for FR BGC_SKhan,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190403_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,281,281
+TaskRabbit,TaskRabbit - V3,190403_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190403_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190403_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190506_V3_b3_check_translations_CHsu,Florian Vende,,French (France),Translation,Default,0 - 84.9%,257,257
+TaskRabbit,TaskRabbit - V3,190506_V3_b3_check_translations_CHsu,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190506_V3_b3_check_translations_CHsu,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190506_V3_b3_check_translations_CHsu,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_Criminal Record Certificate Requirements (France) - review AD_JNguyen,Florian Vende,,French (France),Translation,Default,0 - 84.9%,227,227
+TaskRabbit,TaskRabbit - V3,190409_V3_Criminal Record Certificate Requirements (France) - review AD_JNguyen,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_Criminal Record Certificate Requirements (France) - review AD_JNguyen,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_Criminal Record Certificate Requirements (France) - review AD_JNguyen,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190424_V3_Delighted_strings_CHsu,Florian Vende,,French (France),Translation,Default,0 - 84.9%,73,73
+TaskRabbit,TaskRabbit - V3,190424_V3_Delighted_strings_CHsu,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190424_V3_Delighted_strings_CHsu,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190424_V3_Delighted_strings_CHsu,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,2,2
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Florian Vende,,French (France),Review,,,2691,2691
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Florian Vende,,French (France),Review,,,1187,1187
+TaskRabbit,TaskRabbit - V3,190411_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,234,234
+TaskRabbit,TaskRabbit - V3,190411_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190411_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190411_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190426_V3_updated_translations_CHsu,Florian Vende,,French (France),Translation,Default,0 - 84.9%,447,447
+TaskRabbit,TaskRabbit - V3,190426_V3_updated_translations_CHsu,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190426_V3_updated_translations_CHsu,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190426_V3_updated_translations_CHsu,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Florian Vende,,French (France),Review,,,230,230
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Florian Vende,,French (France),Review,,,2518,2518
+TaskRabbit,TaskRabbit - V3,190404_V3_content_for_tasker_registration_HTanata (Cancelled 2019/04/18 19:37:55),Florian Vende,,French (France),Translation,Default,0 - 84.9%,245,245
+TaskRabbit,TaskRabbit - V3,190404_V3_content_for_tasker_registration_HTanata (Cancelled 2019/04/18 19:37:55),Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190404_V3_content_for_tasker_registration_HTanata (Cancelled 2019/04/18 19:37:55),Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190404_V3_content_for_tasker_registration_HTanata (Cancelled 2019/04/18 19:37:55),Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,1905328_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,91,91
+TaskRabbit,TaskRabbit - V3,1905328_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,1905328_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,1905328_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Florian Vende,,French (France),Review,,,325,325
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,12,12
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,4,3
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Review,,,2122,2122
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Florian Vende,,French (France),Review,,,1961,1961
+TaskRabbit,TaskRabbit - V3,190516_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,60,60
+TaskRabbit,TaskRabbit - V3,190516_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190516_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190516_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Florian Vende,,French (France),Review,,,2804,2804
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Translation,Default,0 - 84.9%,51,51
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Review,,,2173,2173
+TaskRabbit,TaskRabbit - V3,V3 organic,Florian Vende,,French (France),Edit,,,88,88
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Florian Vende,,French (France),Review,,,326,326
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Florian Vende,,French (France),Review,,,1122,1122
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Florian Vende,,French (France),Review,,,23,23
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Florian Vende,,French (France),Review,,,4189,4189
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Florian Vende,,French (France),Review,,,119,119
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Florian Vende,,French (France),Review,,,585,585
+TaskRabbit,TaskRabbit - V3,V3 Identity,Florian Vende,,French (France),Review,,,569,569
+TaskRabbit,TaskRabbit - V3,190405_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,493,493
+TaskRabbit,TaskRabbit - V3,190405_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190405_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190405_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,1,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Florian Vende,,French (France),Review,,,1284,1284
+TaskRabbit,TaskRabbit - V3,190409_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,384,384
+TaskRabbit,TaskRabbit - V3,190409_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Florian Vende,,French (France),Review,,,533,533
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Florian Vende,,French (France),Review,,,616,616
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Florian Vende,,French (France),Review,,,3142,3142
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Florian Vende,,French (France),Review,,,455,455
+TaskRabbit,TaskRabbit - V3,1905321_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,18,18
+TaskRabbit,TaskRabbit - V3,1905321_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,1905321_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,1905321_V3_updated_translations_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Review,,,183,183
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Florian Vende,,French (France),Review,,,1193,1193
+TaskRabbit,TaskRabbit - V3,task_template_3660,Florian Vende,,French (France),Review,,,263,263
+TaskRabbit,TaskRabbit - V3,190409_V3_SC - 144 - (FR) Identity Verification Process_JNguyen,Florian Vende,,French (France),Translation,Default,0 - 84.9%,498,498
+TaskRabbit,TaskRabbit - V3,190409_V3_SC - 144 - (FR) Identity Verification Process_JNguyen,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_SC - 144 - (FR) Identity Verification Process_JNguyen,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190409_V3_SC - 144 - (FR) Identity Verification Process_JNguyen,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Florian Vende,,French (France),Review,,,2148,2148
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Florian Vende,,French (France),Review,,,318,318
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Florian Vende,,French (France),Review,,,2510,2510
+TaskRabbit,TaskRabbit - V3,190408_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,296,296
+TaskRabbit,TaskRabbit - V3,190408_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190408_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190408_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190416_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,0 - 84.9%,7,7
+TaskRabbit,TaskRabbit - V3,190416_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190416_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190416_V3_content_for_tasker_registration_HTanata,Florian Vende,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,2430,2430
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,53,32
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,12,4
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Jean-François Goës,,French (France),Translation,Default,100%,118,12
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,2613,2613
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Thiago Baraldi,,French (France),Review,,,79,79
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - initial translation,Thiago Baraldi,,French (France),Review,,,2584,2584
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Thiago Baraldi,,French (France),Review,,,12189,12189
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Translation,Default,0 - 84.9%,1,1
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Review,,,1,1
+TaskRabbit,TaskRabbit - V3,Glossary 2019-02-12 (1),Thiago Baraldi,,French (France),Edit,,,1,1
+TaskRabbit,TaskRabbit - V3,20190220SMS,Thiago Baraldi,,French (France),Review,,,19,19
+TaskRabbit,TaskRabbit - V3,20190220SMS,Thiago Baraldi,,French (France),Edit,,,19,19
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Thiago Baraldi,,French (France),Review,,,3246,3246
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Thiago Baraldi,,French (France),Review,,,513,513
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,79,79
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2677,2677
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1196,1196
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,230,230
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2518,2518
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,325,325
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2076,2076
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1982,1982
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2817,2817
+TaskRabbit,TaskRabbit - V3,V3 organic,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2232,2232
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,318,318
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,12189,12189
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1122,1122
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,23,23
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,4113,4113
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,109,109
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,585,585
+TaskRabbit,TaskRabbit - V3,V3 Identity,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,569,569
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1284,1284
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,533,533
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,616,616
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,3493,3493
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,455,455
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,158,158
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1193,1193
+TaskRabbit,TaskRabbit - V3,task_template_3660,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,263,263
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2070,2070
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,318,318
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,3246,3246
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1732,1732
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,513,513
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,79,79
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_New Marketing Groups_CSchlessinger (Cancelled 2019/03/19 17:40:19),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,148,148
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_New Marketing Groups_CSchlessinger (Cancelled 2019/03/19 17:40:19),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_New Marketing Groups_CSchlessinger (Cancelled 2019/03/19 17:40:19),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_New Marketing Groups_CSchlessinger (Cancelled 2019/03/19 17:40:19),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2660,2660
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,11,7
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190328_V3_generated_default_fields_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,4,1
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1186,1186
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,10,6
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190503_V3_updated_translations_CHsu,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,230,230
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190329_V3_html_meta_Htanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2505,2505
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,4,3
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,5,2
+TaskRabbit,TaskRabbit - V3,V3 Organic 02,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,4,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,316,316
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,7,5
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,2,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 15,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2051,2051
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,5,3
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,4,2
+TaskRabbit,TaskRabbit - V3,190402_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1951,1951
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,12,8
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,19,6
+TaskRabbit,TaskRabbit - V3,190315_V3_Content for Tasker Registration FR_HTanada,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2787,2787
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,23,14
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,5,2
+TaskRabbit,TaskRabbit - V3,V3 Organic 04,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,2,1
+TaskRabbit,TaskRabbit - V3,V3 organic,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2256,2256
+TaskRabbit,TaskRabbit - V3,V3 organic,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,8,5
+TaskRabbit,TaskRabbit - V3,V3 organic,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,5,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,317,317
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,1,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 16,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,9738,9738
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,978,587
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,186,56
+TaskRabbit,TaskRabbit - V3,Rabbit Config Locales EN,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1793,180
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1122,1122
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190315_V3 Organic 07_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,23,23
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190318_V3_Marketing_tables_Marketing Group Clusters_CSchlessinger,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,4183,4183
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,5,3
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,4,1
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,109,109
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_leaflet_draw_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,585,585
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,Admin Comms 01,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Identity,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,565,565
+TaskRabbit,TaskRabbit - V3,V3 Identity,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Identity,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Identity,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,4,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1267,1267
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,9,6
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,8,3
+TaskRabbit,TaskRabbit - V3,V3 Organic 13,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,532,532
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,1,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 14,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,614,614
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,2,2
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190325_V3_Content for Tasker Registration_Drew,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,3473,3473
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,11,7
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,9,3
+TaskRabbit,TaskRabbit - V3,190315_V3_Organic 03_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,455,455
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 06,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,148,148
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,190401_V3_content_for_tasker_registration_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,10,1
+TaskRabbit,TaskRabbit - V3,20190220SMS,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,19,19
+TaskRabbit,TaskRabbit - V3,20190220SMS,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,20190220SMS,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,20190220SMS,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1193,1193
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 08,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,task_template_3660,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,263,263
+TaskRabbit,TaskRabbit - V3,task_template_3660,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - V3,task_template_3660,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,task_template_3660,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2025,2025
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,5,3
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,38,12
+TaskRabbit,TaskRabbit - V3,V3 organic 11,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,2,1
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,310,310
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,4,3
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - V3,V3 Organic 05,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,4,1
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,2615,2615
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,99,60
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,90,27
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,442,45
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1603,1603
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,119,72
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,4,2
+TaskRabbit,TaskRabbit - V3,190510_V3_updated_translations_HTanata,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,6,1
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,309,309
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,83,50
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,83,25
+TaskRabbit,TaskRabbit - V3,apps/rabbit/config/locales/en-US.yml - 2019-02-07,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,38,4
+TaskRabbit,TaskRabbit - V3,Content for Tasker Registration FR 03,Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Edit,,,79,79
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Florian Vende,,French (France),Review,,,399,399
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Florian Vende,,French (France),Review,,,2024,2024
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,397,397
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Jean-François Goës,,French (France),Translation,Default,100%,0,0
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Jean-François Goës,,French (France),Translation,Default,0 - 84.9%,2011,2011
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Jean-François Goës,,French (France),Translation,Default,85 - 94.9%,3,2
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Jean-François Goës,,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Jean-François Goës,,French (France),Translation,Default,100%,984,99
+TaskRabbit,Taskrabbit - Video Subtitles,20190523_Video Subtitles_Tasker App Walkthrough Overview_MBeier,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,397,397
+TaskRabbit,Taskrabbit - Video Subtitles,20190221_TOps_YouTubeVideos,Marie-Hélène Perrin-Frégis,,French (France),Edit,,,2024,2024
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Translation,Default,0 - 84.9%,263,263
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Translation,Default,85 - 94.9%,45,27
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Translation,Default,95 - 99.9%,53,16
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Translation,Default,100%,61,7
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Review,,,50272,50272
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Florian Vende,,French (France),Edit,,,8332,8332
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Florian Vende,,French (France),Review,,,211,211
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Florian Vende,,French (France),Review,,,131,131
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Florian Vende,,French (France),Review,,,12592,12592
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Thiago Baraldi,,French (France),Review,,,637,637
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Thiago Baraldi,,French (France),Review,,,18168,18168
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Thiago Baraldi,,French (France),Review,,,166,166
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Thiago Baraldi,,French (France),Review,,,4312,4312
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Thiago Baraldi,,French (France),Review,,,89,89
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,583,583
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,41787,41787
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,12678,12678
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,166,166
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2648,2648
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,202,202
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,89,89
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,128,128
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,12592,12592
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,37117,37117
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,2335,1401
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,2024,608
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-03 (1)_P1 Macros,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,8221,823
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,174,174
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,5,3
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,8,3
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-02 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,15,2
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,128,128
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-04-29 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,10282,10282
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,488,293
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,389,117
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-18 (1),Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1427,143
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Edit,,,54,54
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,80,48
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Edit,,,5490,5490
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Marialucia Morgillo,Alpha CRC - TaskRabbit,French (France),Edit,,,1664,1664
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,582,582
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,18,11
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-20 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,37,4
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,14445,14445
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,561,337
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,1326,398
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,1752,176
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,166,166
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-03-01 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,3971,3971
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,131,79
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,78,24
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-12 (2),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,132,14
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,89,89
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - Zendesk Connector,Daily upload 2019-02-15 (1),Marie Claire Boisset,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Florian Vende,,French (France),Review,,,1505,1505
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Florian Vende,,French (France),Review,,,299,299
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Thiago Baraldi,,French (France),Review,,,2003,2003
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,1505,1505
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,2003,2003
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Alpha Review,Alpha CRC - TaskRabbit,French (France),Edit,,,299,299
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1313,1313
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,58,35
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,51,16
+TaskRabbit,TaskRabbit - ZenDesk Documents,190319_ZenDesk - Documents_FRSupportArticles_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,39,4
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,299,299
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,0,0
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - ZenDesk Documents,20190430_ZenDeskDocuments_FR_IKEAPricingPayment_MBeier,Alpha Translations,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,0,0
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,0 - 84.9%,1969,1969
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,85 - 94.9%,24,15
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,95 - 99.9%,0,0
+TaskRabbit,TaskRabbit - ZenDesk Documents,ZenDesk Support Center - Localized France Article Docs,Ludivine Tourlan,Alpha CRC - TaskRabbit,French (France),Translation,Default,100%,10,1
